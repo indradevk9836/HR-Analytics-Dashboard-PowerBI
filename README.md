@@ -26,6 +26,9 @@ This project involves building an HR Analytics dashboard using Power BI to analy
 - DAX (Measures & KPIs)  
 - HR Analytics
 
+## Dashboard Preview
+![Dashboard Screenshot](image.png)
+
 ## Outcome
 The dashboard provides actionable insights that help organizations identify attrition-prone areas and improve HR strategies.
 
